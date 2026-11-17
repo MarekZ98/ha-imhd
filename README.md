@@ -53,8 +53,8 @@ show_walk: true             # merged: "4 min pešo" on the second line (stops wi
 badge: line                 # line (iMHD / mode colors, default) | neutral (theme colors)
 entities:
   - sensor.imhd_hodzovo_namestie
-  - entity: sensor.imhd_kamenne_namestie
-    name: Kamenné nám.      # optional (default: the stop name)
+  - entity: sensor.imhd_postova
+    name: Poštová           # optional (default: the stop name)
     rows: 4                 # optional, stack/columns only
 ```
 
