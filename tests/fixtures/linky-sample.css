@@ -1,0 +1,12 @@
+/* Sample of https://imhd.sk/data/css/linky.css (rules quoted from the real file). */
+[class*=" Linka ba l"], a[class*=" Linka ba l"], a[class*=" Linka ba l"]:hover { border-color: rgb(128,128,128); color: rgb(255,255,255); background-color: rgb(128,128,128) }
+[class*=' Linka ba lN'],a[class*=' Linka ba lN'],a[class*=' Linka ba lN']:hover{background-color:rgb(43,42,41);border-color:rgb(43,42,41);color:rgb(255,255,255);font-family:"Roboto",sans-serif;}
+.Linka.ba.l21, a.Linka.ba.l21, a.Linka.ba.l21:hover { border-color: rgb(51,134,50); color: rgb(255,255,255); background-color: rgb(51,134,50); }
+.Linka.ba.lN1, a.Linka.ba.lN1, a.Linka.ba.lN1:hover,
+.Linka.ba.lN2, a.Linka.ba.lN2, a.Linka.ba.lN2:hover { border-color: #0064b4; color: #fff; background-color: #0064b4; }
+.Linka.ba.l_9658_, a.Linka.ba.l_9658_ { background: #ffcc00 url(arrow.png) no-repeat; color: black; }
+.Linka.ba.l99 { border-color: red; }
+.Linka.ke.l21, a.Linka.ke.l21 { color: rgb(0,0,0); background-color: rgb(255,221,0); }
+@media (max-width: 600px) {
+  .Linka.ba.l21 { background-color: rgb(1,2,3); }
+}

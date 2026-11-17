@@ -1,0 +1,130 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "iMHD departures",
+        "menu_options": {
+          "link": "Paste a board link from imhd.sk",
+          "search": "Search a stop"
+        }
+      },
+      "link": {
+        "title": "Board link",
+        "description": "Open the live board on imhd.sk (online-zastavkova-tabula), choose your stops and paste the link.",
+        "data": {
+          "url": "Board link from imhd.sk"
+        }
+      },
+      "labels": {
+        "title": "Stop names",
+        "description": "Give each stop a name. Stop ids in order: {ids}."
+      },
+      "search": {
+        "title": "Search a stop",
+        "data": {
+          "city": "City",
+          "query": "Stop name"
+        }
+      },
+      "pick": {
+        "title": "Choose the stop",
+        "data": {
+          "stop": "Stop",
+          "label": "Custom name"
+        }
+      }
+    },
+    "error": {
+      "invalid_link": "This is not an imhd.sk board link.",
+      "unknown_city": "iMHD does not know this city.",
+      "no_stops": "The link contains no stop (parameter st).",
+      "no_stops_found": "No stop found. Try another spelling.",
+      "cannot_connect": "Cannot reach imhd.sk. Try again later.",
+      "other_city": "The link is for another city than this entry."
+    },
+    "abort": {
+      "stops_added": "The stops were added to the existing city entry.",
+      "too_many_stops": "Too many stops (max 8 per city).",
+      "already_in_progress": "This city is already being set up."
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "iMHD stops",
+        "menu_options": {
+          "add_link": "Paste a board link from imhd.sk",
+          "add_search": "Search a stop",
+          "edit": "Edit a stop",
+          "remove": "Remove stops"
+        }
+      },
+      "link": {
+        "title": "Board link",
+        "description": "Open the live board on imhd.sk (online-zastavkova-tabula), choose your stops and paste the link.",
+        "data": {
+          "url": "Board link from imhd.sk"
+        }
+      },
+      "labels": {
+        "title": "Stop names",
+        "description": "Give each stop a name. Stop ids in order: {ids}."
+      },
+      "search": {
+        "title": "Search a stop",
+        "data": {
+          "query": "Stop name"
+        }
+      },
+      "pick": {
+        "title": "Choose the stop",
+        "data": {
+          "stop": "Stop",
+          "label": "Custom name"
+        }
+      },
+      "edit": {
+        "title": "Edit a stop",
+        "data": {
+          "stop": "Stop"
+        }
+      },
+      "edit_stop": {
+        "title": "Edit a stop",
+        "description": "{stop}",
+        "data": {
+          "label": "Custom name",
+          "walk_min": "Walk from home to the stop (min)",
+          "lines": "Lines (comma separated, empty = all)"
+        },
+        "data_description": {
+          "walk_min": "Lines that also leave from a closer stop are hidden by it, and departures you cannot catch are dimmed."
+        }
+      },
+      "remove": {
+        "title": "Remove stops",
+        "data": {
+          "remove": "Stops to remove"
+        }
+      }
+    },
+    "error": {
+      "invalid_link": "This is not an imhd.sk board link.",
+      "unknown_city": "iMHD does not know this city.",
+      "no_stops": "The link contains no stop (parameter st).",
+      "no_stops_found": "No stop found. Try another spelling.",
+      "cannot_connect": "Cannot reach imhd.sk. Try again later.",
+      "other_city": "The link is for another city than this entry."
+    },
+    "abort": {
+      "too_many_stops": "Too many stops (max 8 per city)."
+    }
+  },
+  "entity": {
+    "sensor": {
+      "next_departure": {
+        "name": "Departures"
+      }
+    }
+  }
+}

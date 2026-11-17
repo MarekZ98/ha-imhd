@@ -1,0 +1,130 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Odchody iMHD",
+        "menu_options": {
+          "link": "Vložiť odkaz na tabuľu z imhd.sk",
+          "search": "Vyhľadať zastávku"
+        }
+      },
+      "link": {
+        "title": "Odkaz na tabuľu",
+        "description": "Otvorte online tabuľu na imhd.sk (online-zastavkova-tabula), vyberte zastávky a vložte odkaz.",
+        "data": {
+          "url": "Odkaz na tabuľu z imhd.sk"
+        }
+      },
+      "labels": {
+        "title": "Názvy zastávok",
+        "description": "Pomenujte každú zastávku. Čísla zastávok v poradí: {ids}."
+      },
+      "search": {
+        "title": "Vyhľadať zastávku",
+        "data": {
+          "city": "Mesto",
+          "query": "Názov zastávky"
+        }
+      },
+      "pick": {
+        "title": "Vyberte zastávku",
+        "data": {
+          "stop": "Zastávka",
+          "label": "Vlastný názov"
+        }
+      }
+    },
+    "error": {
+      "invalid_link": "Toto nie je odkaz na tabuľu z imhd.sk.",
+      "unknown_city": "iMHD toto mesto nepozná.",
+      "no_stops": "Odkaz neobsahuje žiadnu zastávku (parameter st).",
+      "no_stops_found": "Žiadna zastávka sa nenašla. Skúste iný zápis.",
+      "cannot_connect": "imhd.sk nie je dostupné. Skúste neskôr.",
+      "other_city": "Odkaz je pre iné mesto ako tento záznam."
+    },
+    "abort": {
+      "stops_added": "Zastávky boli pridané k existujúcemu záznamu mesta.",
+      "too_many_stops": "Príliš veľa zastávok (najviac 8 na mesto).",
+      "already_in_progress": "Toto mesto sa už nastavuje."
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Zastávky iMHD",
+        "menu_options": {
+          "add_link": "Vložiť odkaz na tabuľu z imhd.sk",
+          "add_search": "Vyhľadať zastávku",
+          "edit": "Upraviť zastávku",
+          "remove": "Odstrániť zastávky"
+        }
+      },
+      "link": {
+        "title": "Odkaz na tabuľu",
+        "description": "Otvorte online tabuľu na imhd.sk (online-zastavkova-tabula), vyberte zastávky a vložte odkaz.",
+        "data": {
+          "url": "Odkaz na tabuľu z imhd.sk"
+        }
+      },
+      "labels": {
+        "title": "Názvy zastávok",
+        "description": "Pomenujte každú zastávku. Čísla zastávok v poradí: {ids}."
+      },
+      "search": {
+        "title": "Vyhľadať zastávku",
+        "data": {
+          "query": "Názov zastávky"
+        }
+      },
+      "pick": {
+        "title": "Vyberte zastávku",
+        "data": {
+          "stop": "Zastávka",
+          "label": "Vlastný názov"
+        }
+      },
+      "edit": {
+        "title": "Upraviť zastávku",
+        "data": {
+          "stop": "Zastávka"
+        }
+      },
+      "edit_stop": {
+        "title": "Upraviť zastávku",
+        "description": "{stop}",
+        "data": {
+          "label": "Vlastný názov",
+          "walk_min": "Chôdza z domu k zastávke (min)",
+          "lines": "Linky (čiarkou, prázdne = všetky)"
+        },
+        "data_description": {
+          "walk_min": "Podľa toho sa skryjú linky, ktoré idú aj z bližšej zastávky, a stlmia spoje, ktoré nestihneš."
+        }
+      },
+      "remove": {
+        "title": "Odstrániť zastávky",
+        "data": {
+          "remove": "Zastávky na odstránenie"
+        }
+      }
+    },
+    "error": {
+      "invalid_link": "Toto nie je odkaz na tabuľu z imhd.sk.",
+      "unknown_city": "iMHD toto mesto nepozná.",
+      "no_stops": "Odkaz neobsahuje žiadnu zastávku (parameter st).",
+      "no_stops_found": "Žiadna zastávka sa nenašla. Skúste iný zápis.",
+      "cannot_connect": "imhd.sk nie je dostupné. Skúste neskôr.",
+      "other_city": "Odkaz je pre iné mesto ako tento záznam."
+    },
+    "abort": {
+      "too_many_stops": "Príliš veľa zastávok (najviac 8 na mesto)."
+    }
+  },
+  "entity": {
+    "sensor": {
+      "next_departure": {
+        "name": "Odchody"
+      }
+    }
+  }
+}

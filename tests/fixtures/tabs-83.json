@@ -1,0 +1,1712 @@
+{
+  "note": "Real iMHD Socket.IO tabs pushes for stop 83 (Hodžovo nám.), recorded 2026-11-17: the first burst after tabStart; each push replaces the listed platforms.",
+  "receivedAt": "2026-11-17T19:29:11.560Z",
+  "pushes": [
+    [
+      {
+        "zastavka": 83,
+        "nastupiste": 213,
+        "timestamp": 1794943751644,
+        "nextRowAt": null,
+        "tab": [
+          {
+            "linka": "N70",
+            "issi": "1:3423",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 2,
+            "i": -18699564,
+            "cas": 1794954765000,
+            "casCP": 1794954780000,
+            "casDelta": 0,
+            "typ": "online",
+            "cielStr": "Podunajské Biskupice",
+            "konecnaZstr": "Stn. P. Biskupice",
+            "konecnaZstrTTS": "Stanica Podunajské Biskupice",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "23:33"
+          },
+          {
+            "linka": "42",
+            "issi": "1:6807",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 8,
+            "i": -18702786,
+            "cas": 1794944107000,
+            "casCP": 1794944115000,
+            "casDelta": 0,
+            "typ": "online",
+            "predoslaZidx": 3,
+            "cielStr": "Cintorín Vrakuňa",
+            "konecnaZstr": "Cintorín Vrakuňa",
+            "konecnaZobec": "Bratislava",
+            "predoslaZstr": "Nemocnica Kramáre",
+            "predoslaZobec": "Bratislava",
+            "odjazd": "5 min"
+          },
+          {
+            "linka": "42",
+            "issi": "1:6809",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 8,
+            "i": -18702823,
+            "cas": 1794945000000,
+            "casCP": 1794945015000,
+            "casDelta": 0,
+            "typ": "online",
+            "cielStr": "Cintorín Vrakuňa",
+            "konecnaZstr": "Cintorín Vrakuňa",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "20 min"
+          },
+          {
+            "linka": "44",
+            "issi": "1:6128",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 21,
+            "i": -18702953,
+            "cas": 1794944025000,
+            "casCP": 1794943800000,
+            "casDelta": 4,
+            "typ": "online",
+            "predoslaZidx": 15,
+            "cielStr": "Koliba",
+            "konecnaZstr": "Koliba",
+            "konecnaZobec": "Bratislava",
+            "predoslaZstr": "Radvanská",
+            "predoslaZobec": "Bratislava",
+            "odjazd": "4 min"
+          },
+          {
+            "linka": "44",
+            "issi": "1:6131",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 21,
+            "i": -18703076,
+            "cas": 1794944685000,
+            "casCP": 1794944700000,
+            "casDelta": 0,
+            "typ": "online",
+            "predoslaZidx": 2,
+            "cielStr": "Koliba",
+            "konecnaZstr": "Koliba",
+            "konecnaZobec": "Bratislava",
+            "predoslaZstr": "Sokolská",
+            "predoslaZobec": "Bratislava",
+            "odjazd": "15 min"
+          },
+          {
+            "linka": "N72",
+            "issi": "1:6129",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 0,
+            "i": -18703093,
+            "cas": 1794954885000,
+            "casCP": 1794954900000,
+            "casDelta": 0,
+            "typ": "online",
+            "cielStr": "Stn. Vrakuňa",
+            "cielStrTTS": "Stanica Vrakuňa",
+            "konecnaZstr": "Stn. Vrakuňa",
+            "konecnaZstrTTS": "Stanica Vrakuňa",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "23:35"
+          },
+          {
+            "linka": "N44",
+            "issi": "1:6131",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 0,
+            "i": -18703086,
+            "cas": 1794955665000,
+            "casCP": 1794955680000,
+            "casDelta": 0,
+            "typ": "online",
+            "cielStr": "Koliba",
+            "konecnaZstr": "Koliba",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "23:48"
+          },
+          {
+            "linka": "47",
+            "issi": "1:6822",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 16,
+            "i": -18703136,
+            "cas": 1794944145000,
+            "casCP": 1794944160000,
+            "casDelta": 0,
+            "typ": "online",
+            "predoslaZidx": 6,
+            "cielStr": "Zimný štadión",
+            "konecnaZstr": "Zimný štadión",
+            "konecnaZobec": "Bratislava",
+            "predoslaZstr": "Horský park",
+            "predoslaZobec": "Bratislava",
+            "odjazd": "6 min"
+          },
+          {
+            "linka": "47",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 16,
+            "i": -18703166,
+            "cas": 1794945060000,
+            "casCP": 1794945060000,
+            "typ": "cp",
+            "cielStr": "Zimný štadión",
+            "konecnaZstr": "Zimný štadión",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "21 min"
+          },
+          {
+            "linka": "N53",
+            "issi": "1:2561",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 2,
+            "i": -18704129,
+            "cas": 1794954765000,
+            "casCP": 1794954780000,
+            "casDelta": 0,
+            "typ": "online",
+            "cielStr": "Vajnory",
+            "konecnaZstr": "Vajnory",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "23:33"
+          },
+          {
+            "linka": "N55",
+            "issi": "1:3313",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 2,
+            "i": -18704712,
+            "cas": 1794954765000,
+            "casCP": 1794954780000,
+            "casDelta": 0,
+            "typ": "online",
+            "cielStr": "Rača",
+            "konecnaZstr": "Na pántoch",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "23:33"
+          },
+          {
+            "linka": "599",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 0,
+            "i": 17977329,
+            "cas": 1794955200000,
+            "casCP": 1794955200000,
+            "typ": "cp",
+            "konecnaZstr": "Modra, Národná",
+            "konecnaZobec": "Modra",
+            "odjazd": "23:40"
+          },
+          {
+            "linka": "699",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 0,
+            "i": 17835543,
+            "cas": 1794955200000,
+            "casCP": 1794955200000,
+            "typ": "cp",
+            "konecnaZstr": "Senec, Žel. stanica",
+            "konecnaZstrTTS": "Senec, Železničná stanica",
+            "konecnaZobec": "Senec",
+            "odjazd": "23:40"
+          },
+          {
+            "linka": "799",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 0,
+            "i": 19284075,
+            "cas": 1794955200000,
+            "casCP": 1794955200000,
+            "typ": "cp",
+            "konecnaZstr": "Šamorín, Aut. stanica",
+            "konecnaZstrTTS": "Šamorín, Autobusová stanica",
+            "konecnaZobec": "Šamorín",
+            "odjazd": "23:40"
+          }
+        ]
+      },
+      {
+        "zastavka": 83,
+        "nastupiste": 214,
+        "timestamp": 1794943751644,
+        "nextRowAt": null,
+        "tab": [
+          {
+            "linka": "N70",
+            "issi": "1:3423",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 22,
+            "i": -18699565,
+            "cas": 1794957585000,
+            "casCP": 1794957600000,
+            "casDelta": 0,
+            "typ": "online",
+            "cielStr": "Hlavná stanica",
+            "konecnaZstr": "Hlavná stanica",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "00:20"
+          },
+          {
+            "linka": "42",
+            "issi": "1:6829",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 17,
+            "i": -18702859,
+            "cas": 1794944456000,
+            "casCP": 1794944250000,
+            "casDelta": 3,
+            "typ": "online",
+            "predoslaZidx": 8,
+            "cielStr": "Kramáre ► Červený most",
+            "konecnaZstr": "Červený most",
+            "konecnaZobec": "Bratislava",
+            "predoslaZstr": "Pažítková",
+            "predoslaZobec": "Bratislava",
+            "odjazd": "11 min"
+          },
+          {
+            "linka": "42",
+            "issi": "1:6830",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 17,
+            "i": -18702614,
+            "cas": 1794945135000,
+            "casCP": 1794945150000,
+            "casDelta": 0,
+            "typ": "online",
+            "cielStr": "Kramáre ► Červený most",
+            "konecnaZstr": "Červený most",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "23 min"
+          },
+          {
+            "linka": "44",
+            "issi": "1:6130",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 8,
+            "i": -18703048,
+            "cas": 1794944385000,
+            "casCP": 1794944400000,
+            "casDelta": 0,
+            "typ": "online",
+            "cielStr": "Hrad ► Hlavná stanica",
+            "konecnaZstr": "Hlavná stanica",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "10 min"
+          },
+          {
+            "linka": "44",
+            "issi": "1:6123",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 8,
+            "i": -18702932,
+            "cas": 1794945285000,
+            "casCP": 1794945300000,
+            "casDelta": 0,
+            "typ": "online",
+            "cielStr": "Hrad ► Hlavná stanica",
+            "konecnaZstr": "Hlavná stanica",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "25 min"
+          },
+          {
+            "linka": "N47",
+            "issi": "1:6129",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 0,
+            "i": -18703103,
+            "cas": 1794957885000,
+            "casCP": 1794957900000,
+            "casDelta": 0,
+            "typ": "online",
+            "cielStr": "Valašská",
+            "konecnaZstr": "Valašská",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "00:25"
+          },
+          {
+            "linka": "47",
+            "issi": "1:6833",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 6,
+            "i": -18703220,
+            "cas": 1794943965000,
+            "casCP": 1794943920000,
+            "casDelta": 1,
+            "typ": "online",
+            "predoslaZidx": 2,
+            "cielStr": "Hrad ► Červený most",
+            "konecnaZstr": "Červený most",
+            "konecnaZobec": "Bratislava",
+            "predoslaZstr": "Kvačalova",
+            "predoslaZobec": "Bratislava",
+            "odjazd": "3 min"
+          },
+          {
+            "linka": "47",
+            "issi": "1:6847",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 6,
+            "i": -18703250,
+            "cas": 1794944805000,
+            "casCP": 1794944820000,
+            "casDelta": 0,
+            "typ": "online",
+            "cielStr": "Hrad ► Červený most",
+            "konecnaZstr": "Červený most",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "17 min"
+          },
+          {
+            "linka": "47",
+            "issi": "1:6822",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 6,
+            "i": -18703141,
+            "cas": 1794953805000,
+            "casCP": 1794953820000,
+            "casDelta": 0,
+            "typ": "online",
+            "cielStr": "Depo Hroboňova",
+            "konecnaZstr": "Depo Hroboňova",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "23:17"
+          },
+          {
+            "linka": "N53",
+            "issi": "1:2561",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 22,
+            "i": -18704128,
+            "cas": 1794953925000,
+            "casCP": 1794953940000,
+            "casDelta": 0,
+            "typ": "online",
+            "cielStr": "Hlavná stanica",
+            "konecnaZstr": "Hlavná stanica",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "23:19"
+          },
+          {
+            "linka": "N55",
+            "issi": "1:2246",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 23,
+            "i": -18704715,
+            "cas": 1794955665000,
+            "casCP": 1794955680000,
+            "casDelta": 0,
+            "typ": "online",
+            "cielStr": "Hlavná stanica",
+            "konecnaZstr": "Hlavná stanica",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "23:48"
+          },
+          {
+            "linka": "►",
+            "issi": "1:6849",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 22,
+            "i": -18706432,
+            "cas": 1794950445000,
+            "casCP": 1794950460000,
+            "casDelta": 0,
+            "typ": "online",
+            "cielStr": "Depo Hroboňova",
+            "konecnaZstr": "Depo Hroboňova",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "22:21"
+          },
+          {
+            "linka": "299",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 2,
+            "i": 18332123,
+            "cas": 1794955200000,
+            "casCP": 1794955200000,
+            "typ": "cp",
+            "konecnaZstr": "Lozorno, Obecný úrad",
+            "konecnaZobec": "Lozorno",
+            "odjazd": "23:40"
+          }
+        ]
+      },
+      {
+        "zastavka": 83,
+        "nastupiste": 216,
+        "timestamp": 1794943751644,
+        "nextRowAt": null,
+        "tab": [
+          {
+            "linka": "83",
+            "issi": "1:3556",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 17,
+            "i": -18706940,
+            "cas": 1794944097000,
+            "casCP": 1794944085000,
+            "casDelta": 0,
+            "typ": "online",
+            "predoslaZidx": 12,
+            "cielStr": "Petržalka, Kutlíkova",
+            "konecnaZstr": "Kutlíkova",
+            "konecnaZobec": "Bratislava",
+            "predoslaZstr": "Patrónka",
+            "predoslaZobec": "Bratislava",
+            "odjazd": "5 min"
+          },
+          {
+            "linka": "83",
+            "issi": "1:3554",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 17,
+            "i": -18706961,
+            "cas": 1794944970000,
+            "casCP": 1794944985000,
+            "casDelta": 0,
+            "typ": "online",
+            "cielStr": "Petržalka, Kutlíkova",
+            "konecnaZstr": "Kutlíkova",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "20 min"
+          },
+          {
+            "linka": "N34",
+            "issi": "1:3540",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 2,
+            "i": -18707144,
+            "cas": 1794954705000,
+            "casCP": 1794954720000,
+            "casDelta": 0,
+            "typ": "online",
+            "cielStr": "Dúbravka",
+            "konecnaZstr": "Pri kríži",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "23:32"
+          },
+          {
+            "linka": "83",
+            "issi": "1:3550",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 17,
+            "i": -18707006,
+            "cas": 1794952200000,
+            "casCP": 1794952215000,
+            "casDelta": 0,
+            "typ": "online",
+            "cielStr": "Depo Petržalka",
+            "konecnaZstr": "Depo Petržalka",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "22:50"
+          },
+          {
+            "linka": "84",
+            "issi": "1:3418",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 14,
+            "i": -18707217,
+            "cas": 1794943725000,
+            "casCP": 1794943665000,
+            "casDelta": 1,
+            "typ": "online",
+            "predoslaZidx": 13,
+            "cielStr": "Ovsište",
+            "konecnaZstr": "Ovsište",
+            "konecnaZobec": "Bratislava",
+            "predoslaZstr": "Pod stanicou",
+            "predoslaZobec": "Bratislava",
+            "odjazd": "*"
+          },
+          {
+            "linka": "84",
+            "issi": "1:3552",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 14,
+            "i": -18707239,
+            "cas": 1794944562000,
+            "casCP": 1794944565000,
+            "casDelta": 0,
+            "typ": "online",
+            "predoslaZidx": 3,
+            "cielStr": "Ovsište",
+            "konecnaZstr": "Ovsište",
+            "konecnaZobec": "Bratislava",
+            "predoslaZstr": "Alexyho",
+            "predoslaZobec": "Bratislava",
+            "odjazd": "13 min"
+          },
+          {
+            "linka": "84",
+            "issi": "1:3570",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 14,
+            "i": -18707177,
+            "cas": 1794953580000,
+            "casCP": 1794953595000,
+            "casDelta": 0,
+            "typ": "online",
+            "cielStr": "Depo Petržalka",
+            "konecnaZstr": "Depo Petržalka",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "23:13"
+          },
+          {
+            "linka": "N31",
+            "issi": "1:1860",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 2,
+            "i": -18703792,
+            "cas": 1794954705000,
+            "casCP": 1794954720000,
+            "casDelta": 0,
+            "typ": "online",
+            "cielStr": "Cintorín Slávičie",
+            "konecnaZstr": "Cintorín Slávičie",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "23:32"
+          },
+          {
+            "linka": "N80",
+            "issi": "1:4252",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 2,
+            "i": -18708309,
+            "cas": 1794954705000,
+            "casCP": 1794954720000,
+            "casDelta": 0,
+            "typ": "online",
+            "cielStr": "Kapitulský dvor",
+            "konecnaZstr": "Kapitulský dvor",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "23:32"
+          },
+          {
+            "linka": "93",
+            "issi": "1:4260",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 2,
+            "i": -18708616,
+            "cas": 1794943845000,
+            "casCP": 1794943860000,
+            "casDelta": 0,
+            "typ": "online",
+            "predoslaZidx": 0,
+            "cielStr": "Petržalka, Vyšehradská",
+            "konecnaZstr": "Vyšehradská",
+            "konecnaZobec": "Bratislava",
+            "predoslaZstr": "Hlavná stanica",
+            "predoslaZobec": "Bratislava",
+            "odjazd": "1 min"
+          },
+          {
+            "linka": "93",
+            "issi": "1:4259",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 2,
+            "i": -18708447,
+            "cas": 1794944445000,
+            "casCP": 1794944460000,
+            "casDelta": 0,
+            "typ": "online",
+            "cielStr": "Petržalka, Vyšehradská",
+            "konecnaZstr": "Vyšehradská",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "11 min"
+          },
+          {
+            "linka": "93",
+            "issi": "1:3568",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 2,
+            "i": -18708353,
+            "cas": 1794949185000,
+            "casCP": 1794949200000,
+            "casDelta": 0,
+            "typ": "online",
+            "cielStr": "Depo Petržalka",
+            "konecnaZstr": "Depo Petržalka",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "22:00"
+          },
+          {
+            "linka": "N93",
+            "issi": "1:3568",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 2,
+            "i": -18708637,
+            "cas": 1794954705000,
+            "casCP": 1794954720000,
+            "casDelta": 0,
+            "typ": "online",
+            "cielStr": "Petržalka, Jasovská",
+            "konecnaZstr": "Jasovská",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "23:32"
+          },
+          {
+            "linka": "N95",
+            "issi": "1:3563",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 2,
+            "i": -18708651,
+            "cas": 1794954705000,
+            "casCP": 1794954720000,
+            "casDelta": 0,
+            "typ": "online",
+            "cielStr": "Depo Petržalka",
+            "konecnaZstr": "Depo Petržalka",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "23:32"
+          }
+        ]
+      },
+      {
+        "zastavka": 83,
+        "nastupiste": 215,
+        "timestamp": 1794943751644,
+        "nextRowAt": null,
+        "tab": [
+          {
+            "linka": "83",
+            "issi": "1:3540",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 11,
+            "i": -18706923,
+            "cas": 1794944488000,
+            "casCP": 1794944460000,
+            "casDelta": 0,
+            "typ": "online",
+            "predoslaZidx": 0,
+            "cielStr": "Dúbravka, Pri kríži",
+            "konecnaZstr": "Pri kríži",
+            "konecnaZobec": "Bratislava",
+            "predoslaZstr": "Kutlíkova",
+            "predoslaZobec": "Bratislava",
+            "odjazd": "12 min"
+          },
+          {
+            "linka": "83",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 14,
+            "i": -18707109,
+            "cas": 1794945360000,
+            "casCP": 1794945360000,
+            "typ": "cp",
+            "cielStr": "Dúbravka, Pri kríži",
+            "konecnaZstr": "Pri kríži",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "26 min"
+          },
+          {
+            "linka": "N34",
+            "issi": "1:3540",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 22,
+            "i": -18707143,
+            "cas": 1794953865000,
+            "casCP": 1794953880000,
+            "casDelta": 0,
+            "typ": "online",
+            "cielStr": "Hlavná stanica",
+            "konecnaZstr": "Hlavná stanica",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "23:18"
+          },
+          {
+            "linka": "84",
+            "issi": "1:3420",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 13,
+            "i": -18707300,
+            "cas": 1794944062000,
+            "casCP": 1794943980000,
+            "casDelta": 1,
+            "typ": "online",
+            "predoslaZidx": 9,
+            "cielStr": "Dúbravka, Pri kríži",
+            "konecnaZstr": "Pri kríži",
+            "konecnaZobec": "Bratislava",
+            "predoslaZstr": "Hálova",
+            "predoslaZobec": "Bratislava",
+            "odjazd": "5 min"
+          },
+          {
+            "linka": "84",
+            "issi": "1:3570",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 13,
+            "i": -18707174,
+            "cas": 1794944865000,
+            "casCP": 1794944880000,
+            "casDelta": 0,
+            "typ": "online",
+            "cielStr": "Dúbravka, Pri kríži",
+            "konecnaZstr": "Pri kríži",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "18 min"
+          },
+          {
+            "linka": "N31",
+            "issi": "1:1860",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 7,
+            "i": -18703793,
+            "cas": 1794957465000,
+            "casCP": 1794957480000,
+            "casDelta": 0,
+            "typ": "online",
+            "cielStr": "Hlavná stanica",
+            "konecnaZstr": "Hlavná stanica",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "00:18"
+          },
+          {
+            "linka": "N61",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 26,
+            "i": -18704907,
+            "cas": 1794957420000,
+            "casCP": 1794957420000,
+            "typ": "cp",
+            "cielStr": "Hlavná stanica",
+            "konecnaZstr": "Hlavná stanica",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "00:17"
+          },
+          {
+            "linka": "91",
+            "issi": "1:4252",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 26,
+            "i": -18708196,
+            "cas": 1794954195000,
+            "casCP": 1794954210000,
+            "casDelta": 0,
+            "typ": "online",
+            "cielStr": "Hlavná stanica",
+            "konecnaZstr": "Hlavná stanica",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "23:23"
+          },
+          {
+            "linka": "N80",
+            "issi": "1:4252",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 19,
+            "i": -18708310,
+            "cas": 1794957645000,
+            "casCP": 1794957660000,
+            "casDelta": 0,
+            "typ": "online",
+            "cielStr": "Hlavná stanica",
+            "konecnaZstr": "Hlavná stanica",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "00:21"
+          },
+          {
+            "linka": "93",
+            "issi": "1:3568",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 13,
+            "i": -18708350,
+            "cas": 1794944145000,
+            "casCP": 1794944100000,
+            "casDelta": 1,
+            "typ": "online",
+            "predoslaZidx": 7,
+            "cielStr": "Hlavná stanica",
+            "konecnaZstr": "Hlavná stanica",
+            "konecnaZobec": "Bratislava",
+            "predoslaZstr": "Ševčenkova",
+            "predoslaZobec": "Bratislava",
+            "odjazd": "6 min"
+          },
+          {
+            "linka": "93",
+            "issi": "1:4271",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 13,
+            "i": -18708606,
+            "cas": 1794944685000,
+            "casCP": 1794944700000,
+            "casDelta": 0,
+            "typ": "online",
+            "cielStr": "Hlavná stanica",
+            "konecnaZstr": "Hlavná stanica",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "15 min"
+          },
+          {
+            "linka": "N93",
+            "issi": "1:3568",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 18,
+            "i": -18708636,
+            "cas": 1794953865000,
+            "casCP": 1794953880000,
+            "casDelta": 0,
+            "typ": "online",
+            "cielStr": "Hlavná stanica",
+            "konecnaZstr": "Hlavná stanica",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "23:18"
+          },
+          {
+            "linka": "N95",
+            "issi": "1:3563",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 21,
+            "i": -18708650,
+            "cas": 1794953805000,
+            "casCP": 1794953820000,
+            "casDelta": 0,
+            "typ": "online",
+            "cielStr": "Hlavná stanica",
+            "konecnaZstr": "Hlavná stanica",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "23:17"
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "zastavka": 83,
+        "nastupiste": 215,
+        "timestamp": 1794943751719,
+        "nextRowAt": null,
+        "tab": [
+          {
+            "linka": "83",
+            "issi": "1:3540",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 11,
+            "i": -18706923,
+            "cas": 1794944490592,
+            "casCP": 1794944460000,
+            "casDelta": 0,
+            "typ": "online",
+            "predoslaZidx": 1,
+            "cielStr": "Dúbravka, Pri kríži",
+            "konecnaZstr": "Pri kríži",
+            "konecnaZobec": "Bratislava",
+            "predoslaZstr": "Bradáčova",
+            "predoslaZobec": "Bratislava",
+            "odjazd": "12 min"
+          },
+          {
+            "linka": "83",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 14,
+            "i": -18707109,
+            "cas": 1794945360000,
+            "casCP": 1794945360000,
+            "typ": "cp",
+            "cielStr": "Dúbravka, Pri kríži",
+            "konecnaZstr": "Pri kríži",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "26 min"
+          },
+          {
+            "linka": "N34",
+            "issi": "1:3540",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 22,
+            "i": -18707143,
+            "cas": 1794953865000,
+            "casCP": 1794953880000,
+            "casDelta": 0,
+            "typ": "online",
+            "cielStr": "Hlavná stanica",
+            "konecnaZstr": "Hlavná stanica",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "23:18"
+          },
+          {
+            "linka": "84",
+            "issi": "1:3420",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 13,
+            "i": -18707300,
+            "cas": 1794944062000,
+            "casCP": 1794943980000,
+            "casDelta": 1,
+            "typ": "online",
+            "predoslaZidx": 9,
+            "cielStr": "Dúbravka, Pri kríži",
+            "konecnaZstr": "Pri kríži",
+            "konecnaZobec": "Bratislava",
+            "predoslaZstr": "Hálova",
+            "predoslaZobec": "Bratislava",
+            "odjazd": "5 min"
+          },
+          {
+            "linka": "84",
+            "issi": "1:3570",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 13,
+            "i": -18707174,
+            "cas": 1794944865000,
+            "casCP": 1794944880000,
+            "casDelta": 0,
+            "typ": "online",
+            "cielStr": "Dúbravka, Pri kríži",
+            "konecnaZstr": "Pri kríži",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "18 min"
+          },
+          {
+            "linka": "N31",
+            "issi": "1:1860",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 7,
+            "i": -18703793,
+            "cas": 1794957465000,
+            "casCP": 1794957480000,
+            "casDelta": 0,
+            "typ": "online",
+            "cielStr": "Hlavná stanica",
+            "konecnaZstr": "Hlavná stanica",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "00:18"
+          },
+          {
+            "linka": "N61",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 26,
+            "i": -18704907,
+            "cas": 1794957420000,
+            "casCP": 1794957420000,
+            "typ": "cp",
+            "cielStr": "Hlavná stanica",
+            "konecnaZstr": "Hlavná stanica",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "00:17"
+          },
+          {
+            "linka": "91",
+            "issi": "1:4252",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 26,
+            "i": -18708196,
+            "cas": 1794954195000,
+            "casCP": 1794954210000,
+            "casDelta": 0,
+            "typ": "online",
+            "cielStr": "Hlavná stanica",
+            "konecnaZstr": "Hlavná stanica",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "23:23"
+          },
+          {
+            "linka": "N80",
+            "issi": "1:4252",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 19,
+            "i": -18708310,
+            "cas": 1794957645000,
+            "casCP": 1794957660000,
+            "casDelta": 0,
+            "typ": "online",
+            "cielStr": "Hlavná stanica",
+            "konecnaZstr": "Hlavná stanica",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "00:21"
+          },
+          {
+            "linka": "93",
+            "issi": "1:3568",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 13,
+            "i": -18708350,
+            "cas": 1794944145000,
+            "casCP": 1794944100000,
+            "casDelta": 1,
+            "typ": "online",
+            "predoslaZidx": 7,
+            "cielStr": "Hlavná stanica",
+            "konecnaZstr": "Hlavná stanica",
+            "konecnaZobec": "Bratislava",
+            "predoslaZstr": "Ševčenkova",
+            "predoslaZobec": "Bratislava",
+            "odjazd": "6 min"
+          },
+          {
+            "linka": "93",
+            "issi": "1:4271",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 13,
+            "i": -18708606,
+            "cas": 1794944685000,
+            "casCP": 1794944700000,
+            "casDelta": 0,
+            "typ": "online",
+            "cielStr": "Hlavná stanica",
+            "konecnaZstr": "Hlavná stanica",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "15 min"
+          },
+          {
+            "linka": "N93",
+            "issi": "1:3568",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 18,
+            "i": -18708636,
+            "cas": 1794953865000,
+            "casCP": 1794953880000,
+            "casDelta": 0,
+            "typ": "online",
+            "cielStr": "Hlavná stanica",
+            "konecnaZstr": "Hlavná stanica",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "23:18"
+          },
+          {
+            "linka": "N95",
+            "issi": "1:3563",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 21,
+            "i": -18708650,
+            "cas": 1794953805000,
+            "casCP": 1794953820000,
+            "casDelta": 0,
+            "typ": "online",
+            "cielStr": "Hlavná stanica",
+            "konecnaZstr": "Hlavná stanica",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "23:17"
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "zastavka": 83,
+        "nastupiste": 214,
+        "timestamp": 1794943751644,
+        "nextRowAt": null,
+        "tab": [
+          {
+            "linka": "N70",
+            "issi": "1:3423",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 22,
+            "i": -18699565,
+            "cas": 1794957585000,
+            "casCP": 1794957600000,
+            "casDelta": 0,
+            "typ": "online",
+            "cielStr": "Hlavná stanica",
+            "konecnaZstr": "Hlavná stanica",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "00:20"
+          },
+          {
+            "linka": "42",
+            "issi": "1:6829",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 17,
+            "i": -18702859,
+            "cas": 1794944456000,
+            "casCP": 1794944250000,
+            "casDelta": 3,
+            "typ": "online",
+            "predoslaZidx": 8,
+            "cielStr": "Kramáre ► Červený most",
+            "konecnaZstr": "Červený most",
+            "konecnaZobec": "Bratislava",
+            "predoslaZstr": "Pažítková",
+            "predoslaZobec": "Bratislava",
+            "odjazd": "11 min"
+          },
+          {
+            "linka": "42",
+            "issi": "1:6830",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 17,
+            "i": -18702614,
+            "cas": 1794945135000,
+            "casCP": 1794945150000,
+            "casDelta": 0,
+            "typ": "online",
+            "cielStr": "Kramáre ► Červený most",
+            "konecnaZstr": "Červený most",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "22 min"
+          },
+          {
+            "linka": "44",
+            "issi": "1:6130",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 8,
+            "i": -18703048,
+            "cas": 1794944385000,
+            "casCP": 1794944400000,
+            "casDelta": 0,
+            "typ": "online",
+            "cielStr": "Hrad ► Hlavná stanica",
+            "konecnaZstr": "Hlavná stanica",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "10 min"
+          },
+          {
+            "linka": "44",
+            "issi": "1:6123",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 8,
+            "i": -18702932,
+            "cas": 1794945285000,
+            "casCP": 1794945300000,
+            "casDelta": 0,
+            "typ": "online",
+            "cielStr": "Hrad ► Hlavná stanica",
+            "konecnaZstr": "Hlavná stanica",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "25 min"
+          },
+          {
+            "linka": "N47",
+            "issi": "1:6129",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 0,
+            "i": -18703103,
+            "cas": 1794957885000,
+            "casCP": 1794957900000,
+            "casDelta": 0,
+            "typ": "online",
+            "cielStr": "Valašská",
+            "konecnaZstr": "Valašská",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "00:25"
+          },
+          {
+            "linka": "47",
+            "issi": "1:6833",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 6,
+            "i": -18703220,
+            "cas": 1794943965000,
+            "casCP": 1794943920000,
+            "casDelta": 1,
+            "typ": "online",
+            "predoslaZidx": 2,
+            "cielStr": "Hrad ► Červený most",
+            "konecnaZstr": "Červený most",
+            "konecnaZobec": "Bratislava",
+            "predoslaZstr": "Kvačalova",
+            "predoslaZobec": "Bratislava",
+            "odjazd": "3 min"
+          },
+          {
+            "linka": "47",
+            "issi": "1:6847",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 6,
+            "i": -18703250,
+            "cas": 1794944805000,
+            "casCP": 1794944820000,
+            "casDelta": 0,
+            "typ": "online",
+            "cielStr": "Hrad ► Červený most",
+            "konecnaZstr": "Červený most",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "17 min"
+          },
+          {
+            "linka": "47",
+            "issi": "1:6822",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 6,
+            "i": -18703141,
+            "cas": 1794953805000,
+            "casCP": 1794953820000,
+            "casDelta": 0,
+            "typ": "online",
+            "cielStr": "Depo Hroboňova",
+            "konecnaZstr": "Depo Hroboňova",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "23:17"
+          },
+          {
+            "linka": "N53",
+            "issi": "1:2561",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 22,
+            "i": -18704128,
+            "cas": 1794953925000,
+            "casCP": 1794953940000,
+            "casDelta": 0,
+            "typ": "online",
+            "cielStr": "Hlavná stanica",
+            "konecnaZstr": "Hlavná stanica",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "23:19"
+          },
+          {
+            "linka": "N55",
+            "issi": "1:2246",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 23,
+            "i": -18704715,
+            "cas": 1794955665000,
+            "casCP": 1794955680000,
+            "casDelta": 0,
+            "typ": "online",
+            "cielStr": "Hlavná stanica",
+            "konecnaZstr": "Hlavná stanica",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "23:48"
+          },
+          {
+            "linka": "►",
+            "issi": "1:6849",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 22,
+            "i": -18706432,
+            "cas": 1794950445000,
+            "casCP": 1794950460000,
+            "casDelta": 0,
+            "typ": "online",
+            "cielStr": "Depo Hroboňova",
+            "konecnaZstr": "Depo Hroboňova",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "22:21"
+          },
+          {
+            "linka": "299",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 2,
+            "i": 18332123,
+            "cas": 1794955200000,
+            "casCP": 1794955200000,
+            "typ": "cp",
+            "konecnaZstr": "Lozorno, Obecný úrad",
+            "konecnaZobec": "Lozorno",
+            "odjazd": "23:40"
+          }
+        ]
+      },
+      {
+        "zastavka": 83,
+        "nastupiste": 216,
+        "timestamp": 1794943751644,
+        "nextRowAt": null,
+        "tab": [
+          {
+            "linka": "83",
+            "issi": "1:3556",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 17,
+            "i": -18706940,
+            "cas": 1794944097000,
+            "casCP": 1794944085000,
+            "casDelta": 0,
+            "typ": "online",
+            "predoslaZidx": 12,
+            "cielStr": "Petržalka, Kutlíkova",
+            "konecnaZstr": "Kutlíkova",
+            "konecnaZobec": "Bratislava",
+            "predoslaZstr": "Patrónka",
+            "predoslaZobec": "Bratislava",
+            "odjazd": "5 min"
+          },
+          {
+            "linka": "83",
+            "issi": "1:3554",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 17,
+            "i": -18706961,
+            "cas": 1794944970000,
+            "casCP": 1794944985000,
+            "casDelta": 0,
+            "typ": "online",
+            "cielStr": "Petržalka, Kutlíkova",
+            "konecnaZstr": "Kutlíkova",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "20 min"
+          },
+          {
+            "linka": "N34",
+            "issi": "1:3540",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 2,
+            "i": -18707144,
+            "cas": 1794954705000,
+            "casCP": 1794954720000,
+            "casDelta": 0,
+            "typ": "online",
+            "cielStr": "Dúbravka",
+            "konecnaZstr": "Pri kríži",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "23:32"
+          },
+          {
+            "linka": "83",
+            "issi": "1:3550",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 17,
+            "i": -18707006,
+            "cas": 1794952200000,
+            "casCP": 1794952215000,
+            "casDelta": 0,
+            "typ": "online",
+            "cielStr": "Depo Petržalka",
+            "konecnaZstr": "Depo Petržalka",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "22:50"
+          },
+          {
+            "linka": "84",
+            "issi": "1:3418",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 14,
+            "i": -18707217,
+            "cas": 1794943725000,
+            "casCP": 1794943665000,
+            "casDelta": 1,
+            "typ": "online",
+            "predoslaZidx": 13,
+            "cielStr": "Ovsište",
+            "konecnaZstr": "Ovsište",
+            "konecnaZobec": "Bratislava",
+            "predoslaZstr": "Pod stanicou",
+            "predoslaZobec": "Bratislava",
+            "odjazd": "*"
+          },
+          {
+            "linka": "84",
+            "issi": "1:3552",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 14,
+            "i": -18707239,
+            "cas": 1794944562000,
+            "casCP": 1794944565000,
+            "casDelta": 0,
+            "typ": "online",
+            "predoslaZidx": 3,
+            "cielStr": "Ovsište",
+            "konecnaZstr": "Ovsište",
+            "konecnaZobec": "Bratislava",
+            "predoslaZstr": "Alexyho",
+            "predoslaZobec": "Bratislava",
+            "odjazd": "13 min"
+          },
+          {
+            "linka": "84",
+            "issi": "1:3570",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 14,
+            "i": -18707177,
+            "cas": 1794953580000,
+            "casCP": 1794953595000,
+            "casDelta": 0,
+            "typ": "online",
+            "cielStr": "Depo Petržalka",
+            "konecnaZstr": "Depo Petržalka",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "23:13"
+          },
+          {
+            "linka": "N31",
+            "issi": "1:1860",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 2,
+            "i": -18703792,
+            "cas": 1794954705000,
+            "casCP": 1794954720000,
+            "casDelta": 0,
+            "typ": "online",
+            "cielStr": "Cintorín Slávičie",
+            "konecnaZstr": "Cintorín Slávičie",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "23:32"
+          },
+          {
+            "linka": "N80",
+            "issi": "1:4252",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 2,
+            "i": -18708309,
+            "cas": 1794954705000,
+            "casCP": 1794954720000,
+            "casDelta": 0,
+            "typ": "online",
+            "cielStr": "Kapitulský dvor",
+            "konecnaZstr": "Kapitulský dvor",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "23:32"
+          },
+          {
+            "linka": "93",
+            "issi": "1:4260",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 2,
+            "i": -18708616,
+            "cas": 1794943845000,
+            "casCP": 1794943860000,
+            "casDelta": 0,
+            "typ": "online",
+            "predoslaZidx": 0,
+            "cielStr": "Petržalka, Vyšehradská",
+            "konecnaZstr": "Vyšehradská",
+            "konecnaZobec": "Bratislava",
+            "predoslaZstr": "Hlavná stanica",
+            "predoslaZobec": "Bratislava",
+            "odjazd": "1 min"
+          },
+          {
+            "linka": "93",
+            "issi": "1:4259",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 2,
+            "i": -18708447,
+            "cas": 1794944445000,
+            "casCP": 1794944460000,
+            "casDelta": 0,
+            "typ": "online",
+            "cielStr": "Petržalka, Vyšehradská",
+            "konecnaZstr": "Vyšehradská",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "11 min"
+          },
+          {
+            "linka": "93",
+            "issi": "1:3568",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 2,
+            "i": -18708353,
+            "cas": 1794949185000,
+            "casCP": 1794949200000,
+            "casDelta": 0,
+            "typ": "online",
+            "cielStr": "Depo Petržalka",
+            "konecnaZstr": "Depo Petržalka",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "22:00"
+          },
+          {
+            "linka": "N93",
+            "issi": "1:3568",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 2,
+            "i": -18708637,
+            "cas": 1794954705000,
+            "casCP": 1794954720000,
+            "casDelta": 0,
+            "typ": "online",
+            "cielStr": "Petržalka, Jasovská",
+            "konecnaZstr": "Jasovská",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "23:32"
+          },
+          {
+            "linka": "N95",
+            "issi": "1:3563",
+            "sekcie": [
+              "ba"
+            ],
+            "tuZidx": 2,
+            "i": -18708651,
+            "cas": 1794954705000,
+            "casCP": 1794954720000,
+            "casDelta": 0,
+            "typ": "online",
+            "cielStr": "Depo Petržalka",
+            "konecnaZstr": "Depo Petržalka",
+            "konecnaZobec": "Bratislava",
+            "odjazd": "23:32"
+          }
+        ]
+      }
+    ]
+  ]
+}
